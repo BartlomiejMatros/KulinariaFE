@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "soup",
+        "label": "Zupy",
+        "dishes": [
+            {"id": 1, "name": "mushroomSoup", "label": "Zupa grzybowa"},
+            {"id": 2, "name": "tomatoSoup", "label": "Zupa pomidorowa"},
+            {"id": 3, "name": "chickenSoup", "label": "Zupa z kurczaka"},
+            {"id": 4, "name": "beetrootSoup", "label": "Barszcz czerwony"},
+            {"id": 5, "name": "vegetableSoup", "label": "Zupa warzywna"},
+            {"id": 6, "name": "onionSoup", "label": "Zupa cebulowa"},
+            {"id": 7, "name": "pumpkinSoup", "label": "Zupa dyniowa"},
+            {"id": 8, "name": "lentilSoup", "label": "Zupa soczewicowa"},
+            {"id": 9, "name": "peaSoup", "label": "Zupa grochowa"},
+            {"id": 10, "name": "fishSoup", "label": "Zupa rybna"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "salad",
+        "label": "Sałatki",
+        "dishes": [
+            {"id": 11, "name": "ceasarSalad", "label": "Sałatka Cezar"},
+            {"id": 12, "name": "greekSalad", "label": "Sałatka grecka"},
+            {"id": 13, "name": "capreseSalad", "label": "Sałatka caprese"},
+            {"id": 14, "name": "fruitSalad", "label": "Sałatka owocowa"},
+            {"id": 15, "name": "potatoSalad", "label": "Sałatka ziemniaczana"},
+            {"id": 16, "name": "coleslaw", "label": "Sałatka coleslaw"},
+            {"id": 17, "name": "quinoaSalad", "label": "Sałatka quinoa"},
+            {"id": 18, "name": "pastaSalad", "label": "Sałatka makaronowa"},
+            {"id": 19, "name": "beanSalad", "label": "Sałatka z fasoli"},
+            {"id": 20, "name": "tunaSalad", "label": "Sałatka tuńczykowa"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "mainCourse",
+        "label": "Dania główne",
+        "dishes": [
+            {"id": 21, "name": "grilledChicken", "label": "Kurczak z grilla"},
+            {"id": 22, "name": "beefSteak", "label": "Stek wołowy"},
+            {"id": 23, "name": "pastaCarbonara", "label": "Pasta carbonara"},
+            {"id": 24, "name": "vegetableStirFry", "label": "Smażone warzywa"},
+            {"id": 25, "name": "fishTacos", "label": "Tacos rybne"},
+            {"id": 26, "name": "lambCurry", "label": "Curry jagnięce"},
+            {"id": 27, "name": "vegetableLasagna", "label": "Lasagna warzywna"},
+            {"id": 28, "name": "pizzaMargherita", "label": "Pizza Margherita"},
+            {"id": 29, "name": "risottoMushroom", "label": "Risotto grzybowe"},
+            {"id": 30, "name": "shrimpFriedRice", "label": "Ryż smażony z krewetkami"}
+        ]
+    },
+    {
+        "id": 4,
+        "name": "dessert",
+        "label": "Desery",
+        "dishes": [
+            {"id": 31, "name": "cheesecake", "label": "Sernik"},
+            {"id": 32, "name": "chocolateCake", "label": "Ciasto czekoladowe"},
+            {"id": 33, "name": "applePie", "label": "Szarlotka"},
+            {"id": 34, "name": "pannaCotta", "label": "Panna cotta"},
+            {"id": 35, "name": "tiramisu", "label": "Tiramisu"},
+            {"id": 36, "name": "fruitTart", "label": "Tarta owocowa"},
+            {"id": 37, "name": "brownies", "label": "Brownies"},
+            {"id": 38, "name": "iceCream", "label": "Lody"},
+            {"id": 39, "name": "pavlova", "label": "Pavlova"},
+            {"id": 40, "name": "macarons", "label": "Makaroniki"}
+        ]
+    },
+    {
+        "id": 5,
+        "name": "snacks",
+        "label": "Przekąski",
+        "dishes": [
+            {"id": 41, "name": "potatoChips", "label": "Chipsy ziemniaczane"},
+            {"id": 42, "name": "popcorn", "label": "Popcorn"},
+            {"id": 43, "name": "bruschetta", "label": "Bruschetta"},
+            {"id": 44, "name": "nachos", "label": "Nachos"},
+            {"id": 45, "name": "springRolls", "label": "Rolki wiosenne"},
+            {"id": 46, "name": "samosas", "label": "Samosy"},
+            {"id": 47, "name": "deviledEggs", "label": "Jajka faszerowane"},
+            {"id": 48, "name": "hummus", "label": "Hummus"},
+            {"id": 49, "name": "stuffedOlives", "label": "Faszerowane oliwki"},
+            {"id": 50, "name": "cheesePlatter", "label": "Deska serów"}
+        ]
+    }
+]
